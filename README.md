@@ -15,7 +15,7 @@ A Bash script designed to automate the conversion of a **Samsung Galaxy A21s** (
 
 ---
 
-##  Usage
+## Usage
 
 1. **Clone the repository:**
    ```bash
@@ -34,15 +34,25 @@ A Bash script designed to automate the conversion of a **Samsung Galaxy A21s** (
 
 ---
 
-##  Branches
+## Branches
 
 Check out other branches in this repository for different Custom ROMs / OS targets:
 - `lineage` - LineageOS tree conversion (default)
 - Feel free to inspect other branches for alternative ROM bases.
 
 ---
+## Message
 
-##  Credits
+ I haven't created a script for the common device tree yet, but I'll make one later.
+
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See the `LICENSE` file for details.
+
+---
+
+## Credits
 
 - **Tested Base Tree:** [samsungexynos850/android_device_samsung_a21s](https://github.com/samsungexynos850/android_device_samsung_a21s)
 - **Reference Tree:** [Samsung-Galaxy-A13-A135F-Development](https://github.com/Samsung-Galaxy-A13-A135F-Development)
